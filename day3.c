@@ -1,4 +1,4 @@
-/*//函数调用
+//函数调用
 #include<stdio.h>
 //
 void DAY3()
@@ -18,4 +18,4 @@ void DAY3();
 DAY3();
 }
 
-*/
+

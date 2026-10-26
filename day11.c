@@ -1,4 +1,4 @@
-/*//数组与指针练习
+//数组与指针练习
 #include<stdio.h>
 int i = 0, j = 0, k = 0;
 int max=0, min=0;
@@ -86,4 +86,4 @@ int	main(void)
 
 
 
-}*/
+}

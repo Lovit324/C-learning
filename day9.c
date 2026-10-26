@@ -1,4 +1,4 @@
-/*//练习for循环
+//练习for循环
 #include<stdio.h>
 
 
@@ -47,4 +47,4 @@ int main()
 	}
 	printf("X最终为%d", X);
 
-}*/
+}

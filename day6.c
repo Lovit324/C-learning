@@ -1,4 +1,4 @@
-/*//部分运算符号的简单练习
+//部分运算符号的简单练习
 #include<stdio.h>
 int num1 = 0, num2 = 0, num3 = 0, num4 = 0, num5 = 0, num6 = 0, a = 97;
 double NUM1 = 0.0, NUM2 = 0.0, NUM3 = 0.0;
@@ -74,4 +74,4 @@ int main(void)
 	int abs = num5 > num6 ? num5 : num6;	//如果num5大于num6，取num5；否则取num6
 	printf("它的绝对值为%d",abs);
 
-}*/
+}

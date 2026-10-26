@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 int x = 0, one = 0, two = 0, five = 0;
 int main()
 {
@@ -58,4 +58,4 @@ int main()
 
 }
 
-*/
+

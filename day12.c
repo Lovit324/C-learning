@@ -1,4 +1,4 @@
-/*//÷∏’Î¡∑œ∞
+//÷∏’Î¡∑œ∞
 #include<stdio.h>
 #define length 10
 int a[length];
@@ -77,4 +77,4 @@ int main(void)
 		printf("%d\t", a[i]);
 	}
 
-}*/
+}

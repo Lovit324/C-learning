@@ -1,4 +1,4 @@
-/*//switch判断与简单的循环练习
+//switch判断与简单的循环练习
 #include<stdio.h>
 int main()
 
@@ -71,4 +71,4 @@ int main()
 
 
 
-}*/
+}

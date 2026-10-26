@@ -1,6 +1,6 @@
 //利用取余符号进行简单的时差换算
 #include <stdio.h>
-/*int hour1 = 0, minute1 = 0;
+int hour1 = 0, minute1 = 0;
 int hour2=0, minute2=0;
 int time1 = 0, time2 = 0, span = 0;
 
@@ -29,4 +29,4 @@ int main()
 		printf("天涯共此时");
 	}
 	
-}*/
+}

@@ -1,6 +1,6 @@
 //简单的整型变量定义与判断
 #include<stdio.h>
-/*int main()
+int main()
 {	//变量定义
 	int cost=0;
 	int balance = 0;
@@ -25,4 +25,4 @@
 		printf("抱歉，您的余额不足");
 	}
 	return 0;
-}*/
+}

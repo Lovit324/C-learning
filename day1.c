@@ -1,6 +1,6 @@
 /*day1Á·Ï°*/
 #include<stdio.h>
-/*int	main(void)
+int	main(void)
 {
 	
 	printf("Lovit324:\n");
@@ -8,4 +8,4 @@
 	printf("\tbyebye\n");
 	return 0;
 
-}*/
+}
