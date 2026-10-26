@@ -1,2 +1,4 @@
-x64/
-*.user
+# 只保留 .c 源文件（.gitignore 自身保留，保证忽略规则生效）
+*
+!*.c
+!.gitignore
