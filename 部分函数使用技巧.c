@@ -22,4 +22,22 @@ int takethefristnumber(void)
     while ((ch = getchar()) != '\n' && ch != EOF) {}
     return 0;
 }
-
+int _10to2 (int a)
+//将数字的二进制显示出来
+{
+ unsigned int i =1u<<31;
+ while(i!=0)
+ {
+    if(a&i)
+    {
+        printf("1");
+    }
+    else
+    {
+        printf("0");
+    }
+    i>>=1;
+    
+ }
+ return 0;
+}
