@@ -1,4 +1,4 @@
-//结构练习
+/*//结构练习
 #include <stdio.h>
 void clearInputBuffer(void);      //清理输入缓存区
 int _10to2 (int a);      //将数字的二进制显示出来
@@ -129,4 +129,4 @@ int main()
     _10to2(10);
 
 
-}   
+}   */

@@ -1,4 +1,4 @@
-//枚举练习：输入数字，输出对应的星期名
+/*//枚举练习：输入数字，输出对应的星期名
 #include <stdio.h>
 
 enum week
@@ -41,4 +41,4 @@ int main(void)
     printf("数字 %d 对应: ", n+1);
     traslation(day);
     return  0;
-}
+}*/

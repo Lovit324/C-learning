@@ -1,4 +1,4 @@
-//动态内存分配
+/*//动态内存分配
 #include<stdio.h>
 #include<stdlib.h>
 int num = 0, i = 0;
@@ -34,4 +34,4 @@ int main(void)
 	free(p);			//归还内存（必须原样归还）
 
 	return 0;
-}
+}*/

@@ -1,4 +1,4 @@
-//字符串以及相关函数练习
+/*//字符串以及相关函数练习
 #include <stdio.h>
 #include<string.h>
 char arr1[]="hello world";
@@ -78,4 +78,4 @@ int main(void)
 
 
 
-}
+}*/

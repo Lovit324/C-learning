@@ -1,5 +1,5 @@
 /*day1Á·Ï°*/
-#include<stdio.h>
+/*#include<stdio.h>
 int	main(void)
 {
 	
@@ -8,4 +8,4 @@ int	main(void)
 	printf("\tbyebye\n");
 	return 0;
 
-}
+}*/

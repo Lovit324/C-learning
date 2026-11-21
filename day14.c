@@ -1,4 +1,4 @@
-//×Ö·û´®Á·Ï°
+/*//×Ö·û´®Á·Ï°
 #include<stdio.h>
 #include<string.h>
 char str1[20]="hello world";
@@ -62,4 +62,4 @@ int main(void)
 
 
 
-}
+}*/
