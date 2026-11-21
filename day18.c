@@ -1,4 +1,4 @@
-//位段与枚举
+/*//位段与枚举
 #include <stdio.h>
 
 enum color{red,bule,black,white,numofcolor};
@@ -59,4 +59,4 @@ int main()
 
 
 }
-    
+    */
